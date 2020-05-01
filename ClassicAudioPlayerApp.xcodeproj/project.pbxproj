@@ -13,6 +13,8 @@
 		21061AC4245CCD120060CC28 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21061AC2245CCD120060CC28 /* Main.storyboard */; };
 		21061AC6245CCD140060CC28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21061AC5245CCD140060CC28 /* Assets.xcassets */; };
 		21061AC9245CCD140060CC28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21061AC7245CCD140060CC28 /* LaunchScreen.storyboard */; };
+		21061AD1245CCE500060CC28 /* mozart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21061AD0245CCE500060CC28 /* mozart.jpg */; };
+		21061AD3245CCE570060CC28 /* mozart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21061AD2245CCE570060CC28 /* mozart.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		21061AC5245CCD140060CC28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21061AC8245CCD140060CC28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21061ACA245CCD140060CC28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21061AD0245CCE500060CC28 /* mozart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mozart.jpg; sourceTree = "<group>"; };
+		21061AD2245CCE570060CC28 /* mozart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mozart.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				21061ABC245CCD120060CC28 /* AppDelegate.swift */,
 				21061ABE245CCD120060CC28 /* SceneDelegate.swift */,
+				21061AD0245CCE500060CC28 /* mozart.jpg */,
+				21061AD2245CCE570060CC28 /* mozart.mp3 */,
 				21061AC0245CCD120060CC28 /* ViewController.swift */,
 				21061AC2245CCD120060CC28 /* Main.storyboard */,
 				21061AC5245CCD140060CC28 /* Assets.xcassets */,
@@ -126,7 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				21061AC9245CCD140060CC28 /* LaunchScreen.storyboard in Resources */,
+				21061AD3245CCE570060CC28 /* mozart.mp3 in Resources */,
 				21061AC6245CCD140060CC28 /* Assets.xcassets in Resources */,
+				21061AD1245CCE500060CC28 /* mozart.jpg in Resources */,
 				21061AC4245CCD120060CC28 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
